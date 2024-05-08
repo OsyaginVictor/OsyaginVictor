@@ -4,12 +4,13 @@
 
 ### :man_technologist: Обо мне:
 
-Я начинающий data scientist.Мой путь в it начался с Яндекс Практикума, где я сейчас прохожу обучение. Начал изучение в августе 2022 года,в январе у меня будет выпуск.
+Я начинающий data scientist.Мой путь в it начался с Яндекс Практикума, где я сейчас прохожу обучение. Начал изучение в августе 2022 года.
 Для выполнения проектов использовал:  
 - Python
 - ML
 - PostgreSQL
-- Gradient boosting 
+- Gradient boosting
+- GIT
 
 - :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-osyaginviktor-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/RoXR1t3)
 
